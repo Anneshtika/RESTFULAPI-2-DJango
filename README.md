@@ -140,7 +140,7 @@ This project is for educational and demonstration purposes under industrial trai
 
 ### 🔗 GitHub
 
-[github.com/jacob-muema](https://github.com/jacob-muema)
+[github.com/jacob-muema]()
 
 ````
 
